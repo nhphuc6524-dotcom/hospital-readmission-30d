@@ -1,0 +1,25 @@
+# Mac dinh khong dua file len Git
+*
+
+# Cau hinh va huong dan
+!/.gitignore
+!/README.md
+!/requirements.txt
+
+# Notebook
+!/notebooks/
+!/notebooks/*.ipynb
+
+# SQL
+!/sql/
+!/sql/*.sql
+
+# Ma nguon Python va PowerShell
+!/scripts/
+!/scripts/*.py
+!/scripts/*.ps1
+
+# Bao cao va slide
+!/submission_docs/
+!/submission_docs/*.docx
+!/submission_docs/*.pptx
